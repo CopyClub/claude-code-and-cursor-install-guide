@@ -47,7 +47,7 @@ Windows has several terminal options:
 - Most documentation assumes a bash-like environment
 - Easier troubleshooting
 
-## Step 1: Install Cursor (Optional but Recommended)
+## Step 1: Install Cursor
 
 Cursor is an AI-powered code editor that can help you troubleshoot any errors you encounter during this installation process.
 
@@ -72,8 +72,7 @@ It's like having a helpful assistant throughout the installation process.
 
 **If you encounter issues**: See [Cursor Troubleshooting](troubleshooting/troubleshooting_cursor.md)
 
-## Step 2: Install Git Bash
-
+## Step 2: Install Git Bash (Optional)
 Git Bash provides a Unix-like command-line environment on Windows, which makes Claude Code work much more reliably.
 
 ### Installation
